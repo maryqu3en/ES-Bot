@@ -1,0 +1,230 @@
+[
+    {
+        "id": 1,
+        "book": "Demian",
+        "author": "Hermann Hesse",
+        "quote": "I live in my dreams — that's what you sense. Other people live in dreams, but not in their own. That's the difference."
+    },
+    {
+        "id": 2,
+        "book": "Demian",
+        "author": "Hermann Hesse",
+        "quote": "Some of us think holding on makes us strong, but sometimes it is letting go."
+    },
+    {
+        "id": 3,
+        "book": "Demian",
+        "author": "Hermann Hesse",
+        "quote": "You are willing to die, you coward, but not to live."
+    },
+    {
+        "id": 4,
+        "book": "Demian",
+        "author": "Hermann Hesse",
+        "quote": "We do not know what is good for us and what is evil. There is no finality in the world for us, whether there is a God or not."
+    },
+    {
+        "id": 5,
+        "book": "Demian",
+        "author": "Hermann Hesse",
+        "quote": "Each man had only one genuine vocation — to find the way to himself."
+    },
+    {
+        "id": 6,
+        "book": "Demian",
+        "author": "Hermann Hesse",
+        "quote": "The bird fights its way out of the egg. The egg is the world. Who would be born must destroy a world."
+    },
+    {
+        "id": 7,
+        "book": "Demian",
+        "author": "Hermann Hesse",
+        "quote": "I wanted only to try to live in accord with the promptings which came from my true self. Why was that so very difficult?"
+    },
+    {
+        "id": 8,
+        "book": "No Longer Human",
+        "author": "Osamu Dazai",
+        "quote": "I am convinced that human life is filled with many pure, happy, serene examples of insincerity, truly splendid of their kind-of people deceiving one another without (strangely enough) any wounds being inflicted, of people who seem unaware even that they are deceiving one another."
+    },
+    {
+        "id": 9,
+        "book": "No Longer Human",
+        "author": "Osamu Dazai",
+        "quote": "Now I had realized that not only I, but all men were alone in this respect, and that they were imprisoned in their own natures and were thus suffocated in their own worlds."
+    },
+    {
+        "id": 10,
+        "book": "No Longer Human",
+        "author": "Osamu Dazai",
+        "quote": "Living is humiliating."
+    },
+    {
+        "id": 11,
+        "book": "No Longer Human",
+        "author": "Osamu Dazai",
+        "quote": "I didn’t want to gain anything. It was merely that my feelings would not allow me to turn my back on them."
+    },
+    {
+        "id": 12,
+        "book": "No Longer Human",
+        "author": "Osamu Dazai",
+        "quote": "And thus I leave my corpse to posterity."
+    },
+    {
+        "id": 13,
+        "book": "No Longer Human",
+        "author": "Osamu Dazai",
+        "quote": "The human trait of which I am most critical is the sense of justice."
+    },
+    {
+        "id": 14,
+        "book": "The Metamorphosis",
+        "author": "Franz Kafka",
+        "quote": "I cannot make you understand. I cannot make anyone understand what is happening inside me. I cannot even explain it to myself."
+    },
+    {
+        "id": 15,
+        "book": "The Metamorphosis",
+        "author": "Franz Kafka",
+        "quote": "I am in great pain, please help me."
+    },
+    {
+        "id": 16,
+        "book": "The Metamorphosis",
+        "author": "Franz Kafka",
+        "quote": "I'll have to set a good example and hope the others will make the effort themselves."
+    },
+    {
+        "id": 17,
+        "book": "The Metamorphosis",
+        "author": "Franz Kafka",
+        "quote": "Was he an animal, that music could move him so?"
+    },
+    {
+        "id": 18,
+        "book": "The Metamorphosis",
+        "author": "Franz Kafka",
+        "quote": "I cannot stand it any more."
+    },
+    {
+        "id": 19,
+        "book": "The Metamorphosis",
+        "author": "Franz Kafka",
+        "quote": "Gregor Samsa found himself in his bed transformed into a gigantic insect."
+    },
+    {
+        "id": 20,
+        "book": "Strait is the Gate",
+        "author": "André Gide",
+        "quote": "Believe those who are seeking the truth. Doubt those who find it."
+    },
+    {
+        "id": 21,
+        "book": "Strait is the Gate",
+        "author": "André Gide",
+        "quote": "That is love, to give away everything, to sacrifice everything, without the slightest desire to get anything in return."
+    },
+    {
+        "id": 22,
+        "book": "Strait is the Gate",
+        "author": "André Gide",
+        "quote": "A mirror reflects a man's face, but what he is really like is shown by the kind of friends he chooses."
+    },
+    {
+        "id": 23,
+        "book": "Strait is the Gate",
+        "author": "André Gide",
+        "quote": "What can it matter to me, now, that I am happy and tranquil, since there is no longer any hope of rendering you so?"
+    },
+    {
+        "id": 24,
+        "book": "Strait is the Gate",
+        "author": "André Gide",
+        "quote": "It seems to me that I am more to blame in my relations with others than in the matter of my relations with God."
+    },
+    {
+        "id": 25,
+        "book": "Strait is the Gate",
+        "author": "André Gide",
+        "quote": "He feels himself become doubly complete in his union with another, as if he were merged in him, and yet becomes less than himself, as if the other took something from him."
+    },
+    {
+        "id": 26,
+        "book": "The Myth of Sisyphus",
+        "author": "Albert Camus",
+        "quote": "There is only one really serious philosophical question, and that is suicide."
+    },
+    {
+        "id": 27,
+        "book": "The Myth of Sisyphus",
+        "author": "Albert Camus",
+        "quote": "The struggle itself toward the heights is enough to fill a man's heart. One must imagine Sisyphus happy."
+    },
+    {
+        "id": 28,
+        "book": "The Myth of Sisyphus",
+        "author": "Albert Camus",
+        "quote": "The absurd is born of this confrontation between the human need and the unreasonable silence of the world."
+    },
+    {
+        "id": 29,
+        "book": "The Myth of Sisyphus",
+        "author": "Albert Camus",
+        "quote": "In the depth of winter, I finally learned that within me there lay an invincible summer."
+    },
+    {
+        "id": 30,
+        "book": "The Myth of Sisyphus",
+        "author": "Albert Camus",
+        "quote": "If the world were clear, art would not exist."
+    },
+    {
+        "id": 31,
+        "book": "The Myth of Sisyphus",
+        "author": "Albert Camus",
+        "quote": "Freedom is nothing but a chance to be better."
+    },
+    {
+        "id": 32,
+        "book": "Notes from Underground",
+        "author": "Fyodor Dostoyevsky",
+        "quote": "Man only likes to count his troubles; he doesn't calculate his happiness."
+    },
+    {
+        "id": 33,
+        "book": "Notes from Underground",
+        "author": "Fyodor Dostoyevsky",
+        "quote": "I say let the world go to hell, but I should always have my tea."
+    },
+    {
+        "id": 34,
+        "book": "Notes from Underground",
+        "author": "Fyodor Dostoyevsky",
+        "quote": "I am a sick man... I am a spiteful man. I am an unattractive man. I believe my liver is diseased."
+    },
+    {
+        "id": 35,
+        "book": "Notes from Underground",
+        "author": "Fyodor Dostoyevsky",
+        "quote": "I swear to you gentlemen, that to be too conscious is an illness—a real thorough-going illness."
+    },
+    {
+        "id": 36,
+        "book": "Notes from Underground",
+        "author": "Fyodor Dostoyevsky",
+        "quote": "People speak sometimes about the 'bestial' cruelty of man, but that is terribly unjust and offensive to beasts. No animal could ever be so cruel as a man, so artfully, so artistically cruel."
+    },
+    {
+        "id": 37,
+        "book": "Notes from Underground",
+        "author": "Fyodor Dostoyevsky",
+        "quote": "What do you think? Am I a scoundrel, or an honest man?"
+    },
+    {
+        "id": 38,
+        "book": "Strait is the Gate",
+        "author": "André Gide",
+        "quote": "The great artist is the man who most obviously succeeds in turning his pains to advantage, in letting suffering deepens his understanding and sensibility, in growing through his pains."
+    }
+]
