@@ -30,13 +30,13 @@ To invite ES to your Discord server, follow these steps:
 
     ```bash
     git clone https://github.com/maryqu3en/DISCORDJS-ES.git
-    cd es-quote-bot
+    cd DISCORDJS-ES
     ```
 
 2. Install the necessary dependencies:
 
     ```bash
-    pip install -r requirements.txt
+    npm install
     ```
 
 3. Set up your Discord bot token. Create a `config.json` file in the project directory and add your token:
@@ -51,7 +51,7 @@ To invite ES to your Discord server, follow these steps:
 4. Run the bot:
 
     ```bash
-    python bot.py
+    npm run start
     ```
 
 ## Usage
