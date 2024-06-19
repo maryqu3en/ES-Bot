@@ -39,10 +39,13 @@ To invite ES to your Discord server, follow these steps:
     pip install -r requirements.txt
     ```
 
-3. Set up your Discord bot token. Create a `.env` file in the project directory and add your token:
+3. Set up your Discord bot token. Create a `config.json` file in the project directory and add your token:
 
-    ```plaintext
-    DISCORD_TOKEN=your_discord_bot_token
+    ```json
+    {
+        "TOKEN":"discord_bot_token",
+        "clientId":"discord_bot_id"
+    }    
     ```
 
 4. Run the bot:
