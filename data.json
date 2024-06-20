@@ -226,5 +226,383 @@
         "book": "Strait is the Gate",
         "author": "André Gide",
         "quote": "The great artist is the man who most obviously succeeds in turning his pains to advantage, in letting suffering deepens his understanding and sensibility, in growing through his pains."
+    },
+    {
+        "id": 39,
+        "book": "The Stranger",
+        "author": "Albert Camus",
+        "quote": "Mother died today. Or maybe yesterday; I can't be sure."
+    },
+    {
+        "id": 40,
+        "book": "The Stranger",
+        "author": "Albert Camus",
+        "quote": "I opened myself to the gentle indifference of the world."
+    },
+    {
+        "id": 41,
+        "book": "The Stranger",
+        "author": "Albert Camus",
+        "quote": "Since we're all going to die, it's obvious that when and how don't matter."
+    },
+    {
+        "id": 42,
+        "book": "The Stranger",
+        "author": "Albert Camus",
+        "quote": "I may not have been sure about what really did interest me, but I was absolutely sure about what didn't."
+    },
+    {
+        "id": 43,
+        "book": "The Stranger",
+        "author": "Albert Camus",
+        "quote": "For everything to be consummated, for me to feel less alone, I had only to wish that there be a large crowd of spectators the day of my execution and that they greet me with cries of hate."
+    },
+    {
+        "id": 44,
+        "book": "The Stranger",
+        "author": "Albert Camus",
+        "quote": "I had only a little time left and I didn't want to waste it on God."
+    },
+    {
+        "id": 45,
+        "book": "The Stranger",
+        "author": "Albert Camus",
+        "quote": "I felt the urge to reassure him that I was like everybody else, just like everybody else."
+    },
+    {
+        "id": 46,
+        "book": "Steppenwolf",
+        "author": "Hermann Hesse",
+        "quote": "There is no reality except the one contained within us."
+    },
+    {
+        "id": 47,
+        "book": "Steppenwolf",
+        "author": "Hermann Hesse",
+        "quote": "Loneliness is the way by which destiny endeavors to lead man to himself."
+    },
+    {
+        "id": 48,
+        "book": "Steppenwolf",
+        "author": "Hermann Hesse",
+        "quote": "A man cannot live intensely except at the cost of the self."
+    },
+    {
+        "id": 49,
+        "book": "Steppenwolf",
+        "author": "Hermann Hesse",
+        "quote": "We are sun and moon, dear friend; we are sea and land. It is not our purpose to become each other; it is to recognize each other, to learn to see the other and honor him for what he is: each the other's opposite and complement."
+    },
+    {
+        "id": 50,
+        "book": "Steppenwolf",
+        "author": "Hermann Hesse",
+        "quote": "He who has a why to live can bear almost any how."
+    },
+    {
+        "id": 51,
+        "book": "Steppenwolf",
+        "author": "Hermann Hesse",
+        "quote": "Words do not express thoughts very well. They always become a little different immediately after they are expressed, a little distorted, a little foolish."
+    },
+    {
+        "id": 52,
+        "book": "Steppenwolf",
+        "author": "Hermann Hesse",
+        "quote": "The magic of the world, the meaning of our fate, was revealed in me."
+    },
+    {
+        "id": 53,
+        "book": "The Trial",
+        "author": "Franz Kafka",
+        "quote": "Someone must have been telling lies about Josef K., he knew he had done nothing wrong but, one morning, he was arrested."
+    },
+    {
+        "id": 54,
+        "book": "The Trial",
+        "author": "Franz Kafka",
+        "quote": "It's only because of their stupidity that they're able to be so sure of themselves."
+    },
+    {
+        "id": 55,
+        "book": "The Trial",
+        "author": "Franz Kafka",
+        "quote": "You are free, and that is why you are lost."
+    },
+    {
+        "id": 56,
+        "book": "The Trial",
+        "author": "Franz Kafka",
+        "quote": "But I'm not guilty, said K. There’s been a mistake. How is it even possible for someone to be guilty? We’re all human beings here, one like the other."
+    },
+    {
+        "id": 57,
+        "book": "The Trial",
+        "author": "Franz Kafka",
+        "quote": "Logic may indeed be unshakeable, but it cannot withstand a man who is determined to live."
+    },
+    {
+        "id": 58,
+        "book": "The Trial",
+        "author": "Franz Kafka",
+        "quote": "The Court wants nothing from you. It receives you when you come and it relinquishes you when you go."
+    },
+    {
+        "id": 60,
+        "book": "The Idiot",
+        "author": "Fyodor Dostoyevsky",
+        "quote": "Beauty will save the world."
+    },
+    {
+        "id": 61,
+        "book": "The Idiot",
+        "author": "Fyodor Dostoyevsky",
+        "quote": "To think too much is a disease."
+    },
+    {
+        "id": 62,
+        "book": "The Idiot",
+        "author": "Fyodor Dostoyevsky",
+        "quote": "I say let the world go to hell, but I should always have my tea."
+    },
+    {
+        "id": 63,
+        "book": "The Idiot",
+        "author": "Fyodor Dostoyevsky",
+        "quote": "The soul is healed by being with children."
+    },
+    {
+        "id": 64,
+        "book": "The Idiot",
+        "author": "Fyodor Dostoyevsky",
+        "quote": "The more I love humanity in general, the less I love man in particular."
+    },
+    {
+        "id": 66,
+        "book": "The Idiot",
+        "author": "Fyodor Dostoyevsky",
+        "quote": "A fool with a heart and no sense is just as unhappy as a fool with sense and no heart."
+    },
+    {
+        "id": 67,
+        "book": "The Idiot",
+        "author": "Fyodor Dostoyevsky",
+        "quote": "Lying to ourselves is more deeply ingrained than lying to others."
+    },
+    {
+        "id": 68,
+        "book": "The Idiot",
+        "author": "Fyodor Dostoyevsky",
+        "quote": "Compassion is the chief law of human existence."
+    },
+    {
+        "id": 69,
+        "book": "The Idiot",
+        "author": "Fyodor Dostoyevsky",
+        "quote": "It takes something more than intelligence to act intelligently."
+    },
+    {
+        "id": 70,
+        "book": "The Idiot",
+        "author": "Fyodor Dostoyevsky",
+        "quote": "Life is in ourselves and not in the external."
+    },
+    {
+        "id": 71,
+        "book": "The Idiot",
+        "author": "Fyodor Dostoyevsky",
+        "quote": "The greatest happiness is to know the source of unhappiness."
+    },
+    {
+        "id": 72,
+        "book": "The Idiot",
+        "author": "Fyodor Dostoyevsky",
+        "quote": "There is only one thing that I dread: not to be worthy of my sufferings."
+    },
+    {
+        "id": 73,
+        "book": "The Idiot",
+        "author": "Fyodor Dostoyevsky",
+        "quote": "It is better to be unhappy and know the worst, than to be happy in a fool's paradise."
+    },
+    {
+        "id": 74,
+        "book": "Crime and Punishment",
+        "author": "Fyodor Dostoyevsky",
+        "quote": "To go wrong in one's own way is better than to go right in someone else's."
+    },
+    {
+        "id": 75,
+        "book": "Crime and Punishment",
+        "author": "Fyodor Dostoyevsky",
+        "quote": "Pain and suffering are always inevitable for a large intelligence and a deep heart. The really great men must, I think, have great sadness on earth."
+    },
+    {
+        "id": 76,
+        "book": "Crime and Punishment",
+        "author": "Fyodor Dostoyevsky",
+        "quote": "The darker the night, the brighter the stars, The deeper the grief, the closer is God!"
+    },
+    {
+        "id": 77,
+        "book": "Crime and Punishment",
+        "author": "Fyodor Dostoyevsky",
+        "quote": "I did not bow down to you, I bowed down to all the suffering of humanity."
+    },
+    {
+        "id": 78,
+        "book": "Crime and Punishment",
+        "author": "Fyodor Dostoyevsky",
+        "quote": "The man who has a conscience suffers whilst acknowledging his sin. That is his punishment--as well as prison."
+    },
+    {
+        "id": 79,
+        "book": "Crime and Punishment",
+        "author": "Fyodor Dostoyevsky",
+        "quote": "What do you think, would not one tiny crime be wiped out by thousands of good deeds?"
+    },
+    {
+        "id": 80,
+        "book": "Crime and Punishment",
+        "author": "Fyodor Dostoyevsky",
+        "quote": "If he has a conscience he will suffer for his mistake. That will be punishment--as well as the prison."
+    },
+    {
+        "id": 81,
+        "book": "Crime and Punishment",
+        "author": "Fyodor Dostoyevsky",
+        "quote": "Break what must be broken, once for all, that's all, and take the suffering on oneself."
+    },
+    {
+        "id": 82,
+        "book": "Crime and Punishment",
+        "author": "Fyodor Dostoyevsky",
+        "quote": "I swear to you gentlemen, that to be overly conscious is a sickness, a real, thorough sickness."
+    },
+    {
+        "id": 83,
+        "book": "Crime and Punishment",
+        "author": "Fyodor Dostoyevsky",
+        "quote": "Taking a new step, uttering a new word, is what people fear most."
+    },
+    {
+        "id": 84,
+        "book": "Crime and Punishment",
+        "author": "Fyodor Dostoyevsky",
+        "quote": "Man grows used to everything, the scoundrel!"
+    },
+    {
+        "id": 85,
+        "book": "Crime and Punishment",
+        "author": "Fyodor Dostoyevsky",
+        "quote": "The best way to keep a prisoner from escaping is to make sure he never knows he's in prison."
+    },
+    {
+        "id": 86,
+        "book": "Crime and Punishment",
+        "author": "Fyodor Dostoyevsky",
+        "quote": "Power is given only to those who dare to lower themselves and pick it up. Only one thing matters, one thing; to be able to dare!"
+    },
+    {
+        "id": 87,
+        "book": "Crime and Punishment",
+        "author": "Fyodor Dostoyevsky",
+        "quote": "When reason fails, the devil helps!"
+    },
+    {
+        "id": 88,
+        "book": "Crime and Punishment",
+        "author": "Fyodor Dostoyevsky",
+        "quote": "The man who has a conscience suffers while acknowledging his sin. That is his punishment—as well as prison."
+    },
+    {
+        "id": 89,
+        "book": "Crime and Punishment",
+        "author": "Fyodor Dostoyevsky",
+        "quote": "What do you think, would not one tiny crime be wiped out by thousands of good deeds?"
+    },
+    {
+        "id": 90,
+        "book": "Crime and Punishment",
+        "author": "Fyodor Dostoyevsky",
+        "quote": "Taking a new step, uttering a new word, is what people fear most."
+    },
+    {
+        "id": 91,
+        "book": "The Brothers Karamazov",
+        "author": "Fyodor Dostoyevsky",
+        "quote": "If there is no God, everything is permitted."
+    },
+    {
+        "id": 92,
+        "book": "The Brothers Karamazov",
+        "author": "Fyodor Dostoyevsky",
+        "quote": "What is hell? I maintain that it is the suffering of being unable to love."
+    },
+    {
+        "id": 93,
+        "book": "The Brothers Karamazov",
+        "author": "Fyodor Dostoyevsky",
+        "quote": "Above all, don't lie to yourself. The man who lies to himself and listens to his own lie comes to a point that he cannot distinguish the truth within him, or around him, and so loses all respect for himself and for others."
+    },
+    {
+        "id": 94,
+        "book": "The Brothers Karamazov",
+        "author": "Fyodor Dostoyevsky",
+        "quote": "The mystery of human existence lies not in just staying alive, but in finding something to live for."
+    },
+    {
+        "id": 95,
+        "book": "The Brothers Karamazov",
+        "author": "Fyodor Dostoyevsky",
+        "quote": "People speak sometimes about the 'bestial' cruelty of man, but that is terribly unjust and offensive to beasts, no animal could ever be so cruel as a man, so artfully, so artistically cruel."
+    },
+    {
+        "id": 97,
+        "book": "The Brothers Karamazov",
+        "author": "Fyodor Dostoyevsky",
+        "quote": "Nothing is easier than to denounce the evildoer; nothing is more difficult than to understand him."
+    },
+    {
+        "id": 98,
+        "book": "Thus Spoke Zarathustra",
+        "author": "Friedrich Nietzsche",
+        "quote": "He who climbs upon the highest mountains laughs at all tragedies, real or imaginary."
+    },
+    {
+        "id": 99,
+        "book": "Thus Spoke Zarathustra",
+        "author": "Friedrich Nietzsche",
+        "quote": "You must have chaos within you to give birth to a dancing star."
+    },
+    {
+        "id": 100,
+        "book": "Thus Spoke Zarathustra",
+        "author": "Friedrich Nietzsche",
+        "quote": "The higher we soar, the smaller we appear to those who cannot fly."
+    },
+    {
+        "id": 101,
+        "book": "Thus Spoke Zarathustra",
+        "author": "Friedrich Nietzsche",
+        "quote": "The lonely one offers his hand too quickly to whomever he encounters."
+    },
+    {
+        "id": 102,
+        "book": "Thus Spoke Zarathustra",
+        "author": "Friedrich Nietzsche",
+        "quote": "He who has a why to live for can bear almost any how."
+    },
+    {
+        "id": 103,
+        "book": "Thus Spoke Zarathustra",
+        "author": "Friedrich Nietzsche",
+        "quote": "I tell you: one must still have chaos within oneself, to give birth to a dancing star."
+    },
+    {
+        "id": 104,
+        "book": "Thus Spoke Zarathustra",
+        "author": "Friedrich Nietzsche",
+        "quote": "One repays a teacher badly if one always remains nothing but a pupil."
     }
 ]
